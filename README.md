@@ -17,7 +17,7 @@
 
 ## 🔧 Repository Status
 
-![REPOSITORY_STATUS](https://img.shields.io/badge/Status-Done-green?style=for-the-badge)
+![REPOSITORY_STATUS](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
 
 ## 📖 About the project
