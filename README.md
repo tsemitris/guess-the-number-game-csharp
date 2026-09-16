@@ -12,7 +12,7 @@
             text-decoration: underline;
         "
     >
-    medieinstitutet</a>!
+    chas academy</a>!
 </p>
 
 ## 🔧 Repository Status
